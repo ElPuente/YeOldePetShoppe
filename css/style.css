@@ -1,0 +1,85 @@
+
+body{
+    background-image:url("https://static.pexels.com/photos/6886/dog-puppy-tumblr-puppylove.jpg");
+    background-attachment:fixed;
+}
+
+#navbar{
+     margin-left:38%;
+    margin-top: 2%;
+}
+
+.menu{
+    font-family: 'Salsa',Cursive;
+    display: inline;
+   padding: 1%;
+   border: 5%;
+   color: white;
+}
+
+.menu > a{
+    text-decoration: none;
+    
+}
+
+.menu a:hover{
+    font-size: 20px;
+    color:#66cdaa;
+}
+
+#css{
+    background-color:rgba(0,128,128,.3);
+    font-family:Georgia;
+    width: 70%;
+    margin:auto;
+    
+}
+
+figcaption{
+    text-align:center;
+    font-family: 'Hind',Sans-serif;
+    color:white;
+}
+
+.stylesheet{
+    font-family:'Salsa',Cursive;
+    color: white;
+    text-align:center;
+    font-size:20px;
+}
+
+.animals{
+    position: relative;
+    left: 25%;
+    width:50%;
+}
+
+.title{
+    text-align: center;
+    background-color: #800000;
+    color: white;
+    font-size:42px;
+    font-family: 'Salsa',Cursive;
+}
+
+
+.about{
+    text-align: center;
+    color:white;
+    background-color: rgba(64,128,0,.3);
+    font-family:'Hind',Sans-serif;
+    width:70%;
+    margin:auto;
+    font-size:18px;
+}
+
+
+
+.bottom{
+    font-family:'Hind',Sans-serif;
+    ;
+    
+}
+
+
+
